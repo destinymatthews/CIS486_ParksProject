@@ -1,0 +1,60 @@
+<div class="container-fluid bg-3 text-center">    
+  <div class="row">
+    <div class="col-sm-3">
+      
+     <img src="../imgs/IMG_5254.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+     
+      <img src="../imgs/IMG_5260.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      
+     <img src="../imgs/IMG_5226.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3">
+      
+      <img src="../imgs/IMG_5233.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+  </div>
+</div><br>
+  
+<div class="container-fluid bg-3 text-center">    
+  <div class="row">
+    <div class="col-sm-3">
+      
+     <img src="../imgs/IMG_5216.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+     
+      <img src="../imgs/IMG_5206.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      
+     <img src="../imgs/IMG_7391.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3">
+      
+      <img src="../imgs/IMG_7425.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+  </div>
+</div><br>
+
+<div class="container-fluid bg-3 text-center">    
+  <div class="row">
+    <div class="col-sm-3">
+      
+      <img src="../imgs/IMG_7385.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      
+      <img src="../imgs/IMG_7382.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      
+     <img src="../imgs/IMG_7390.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3">
+      
+      <img src="../imgs/IMG_7397.jpg" ass="img-responsive" style="width:100%" alt="Image">
+    </div>
