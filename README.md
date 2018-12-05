@@ -29,7 +29,7 @@ Testing setup (for both websites):
 
 PROJECT CLOSE AND CLIENT HANDOFF
 
-The project was officially closed December 6, 2018. The clients were happy with their websites. The signed client handoff form can be found in the documentation folder. The clients purchased two new domains at the beginning of the project so that the parks would have their own websties.
+The project was officially closed December 6, 2018. The clients were happy with their websites. The client handoff form can be found in the documentation folder. The clients purchased two new domains at the beginning of the project so that the parks would have their own websties.
 
 Current Domains:
 www.colbertcounty.org/parks/alloyspark/ (Alloys Park)
