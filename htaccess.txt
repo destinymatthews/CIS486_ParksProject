@@ -1,0 +1,5 @@
+Redirect 301 /www.colbertcounty.org/parks/alloyspark/ http://www.alloyspark.org
+
+Redirect 301 /www.colbertcounty.org/parks/rosetrailpark/ http://www.rosetrailpark.org
+
+
